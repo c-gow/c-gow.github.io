@@ -6,4 +6,4 @@
 
 [Game Compatibility](compat.md) 
 
-![He is happy because you can see him] (./images/blue-smiley.png)  
+![He is happy because you can see him](./images/blue-smiley.png)  
