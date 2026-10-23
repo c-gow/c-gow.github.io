@@ -1,3 +1,7 @@
-# c-gow.github.io
+# test site
+## test site
+1. test
+2. test
+3. guess... test!
 
-## Hi! this is a test!
+[Game Compatibility](compat.md) 
